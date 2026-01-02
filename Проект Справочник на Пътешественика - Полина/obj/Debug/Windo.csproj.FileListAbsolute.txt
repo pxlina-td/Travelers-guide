@@ -1,0 +1,10 @@
+C:\Users\PolinaTodorova\source\repos\Windo\bin\Debug\Windo.exe.config
+C:\Users\PolinaTodorova\source\repos\Windo\bin\Debug\Windo.exe
+C:\Users\PolinaTodorova\source\repos\Windo\bin\Debug\Windo.pdb
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.csprojAssemblyReference.cache
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.Form1.resources
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.Properties.Resources.resources
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.csproj.GenerateResource.cache
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.csproj.CoreCompileInputs.cache
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.exe
+C:\Users\PolinaTodorova\source\repos\Windo\obj\Debug\Windo.pdb
