@@ -28,6 +28,21 @@ This project is a desktop application built with **C# and Windows Forms** that a
 4. Select an optimization criterion.
 5. Click **Find Route** to display the result.
 
+## Running the Project
+1. **Requirements**
+   - Visual Studio 2019 or later
+   - .NET Framework 4.7.2 (or compatible)  
+
+2. **Steps**
+   1. Clone or download the repository:  
+      ```bash
+      git clone <your-repo-link>
+      ```
+   2. Open the `.sln` solution file in **Visual Studio**.
+   3. Build the project using **Build > Build Solution**.
+   4. Run the application with **Start (F5)**.
+   5. Use the interface to add cities, add roads, and find optimal routes.
+
 ## Technical Details
 - **Vertex class** – represents a city  
 - **Edge class** – represents a road between two cities  
