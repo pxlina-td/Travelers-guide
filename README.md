@@ -54,5 +54,5 @@ This project is a desktop application built with **C# and Windows Forms** that a
 - Online data loading for real roads  
 - Extended statistics and network analysis
 
-## Find more details and screenshots from a demonstration of the application in the .docx file
+## Find more details and screenshots from a demonstration of the application in the Документация.docx file
 
